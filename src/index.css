@@ -31,7 +31,7 @@
 
       .app-container .top-container .searchField-container .logo{
         font-size: 2vmin;
-        color: #00FF00;
+        color: #F79C65;
         font-family: 'Bangers', cursive;
         margin-bottom: 10px;
       }
@@ -100,7 +100,7 @@
           color: #F0FFFF;
         }
 
-     
+
     /* Image result Component styling ends */
 
   .app-container .footer-container{
